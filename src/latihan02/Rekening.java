@@ -1,0 +1,16 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package latihan02;
+
+/**
+ *
+ * @author Pizaini
+ */
+public class Rekening {
+    public static void main(String[] args) {
+        Nasabah nasabah = new Nasabah();
+    }
+}
