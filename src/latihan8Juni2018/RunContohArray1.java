@@ -20,10 +20,9 @@ public class RunContohArray1 extends Application {
     @Override
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("ContohArray1.fxml"));
-        
         Scene scene = new Scene(root);
-        
         stage.setScene(scene);
+        stage.setTitle("Bubble sort");
         stage.show();
     }
 
