@@ -23,6 +23,7 @@ public class RunContohArray1 extends Application {
         Scene scene = new Scene(root);
         stage.setScene(scene);
         stage.setTitle("Bubble sort");
+        stage.setResizable(false);
         stage.show();
     }
 
